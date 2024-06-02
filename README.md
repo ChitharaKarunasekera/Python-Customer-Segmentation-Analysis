@@ -1,4 +1,4 @@
-# Customer Segmentation Project
+# Customer Segmentation and Sales Analysis
 
 This notebook offers a comprehensive analysis of wholesale customer data with the aim of deriving actionable insights for business strategy. The notebook encompasses several key sections.
 
