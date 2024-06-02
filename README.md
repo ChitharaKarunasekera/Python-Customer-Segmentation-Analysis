@@ -6,7 +6,7 @@ This project uses clustering techniques to analyze and segment wholesale custome
 
 ## Usage
 
-The notebook `CustomerSegmentationProject.ipynb` contains the following steps:
+The notebook `Customer_Segmentation_and_Sales_Analysis.ipynb` contains the following steps:
 
 1. **Data Loading**: Load the wholesale customer data.
 2. **Data Preprocessing**: Clean and preprocess the data, including scaling and handling missing values.
